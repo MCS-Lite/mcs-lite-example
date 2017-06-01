@@ -71,8 +71,8 @@
 
 
 // Input your Wi-Fi setting here 
-#define SSID "daria"
-#define PASSWORD "0918410123"
+#define SSID "mcs"
+#define PASSWORD "mcs1234"
 
 //Input MCS Lite websocket server here
 #define WEBSOCKET_SERVER "192.168.1.241"
