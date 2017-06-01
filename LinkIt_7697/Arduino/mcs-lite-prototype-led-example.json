@@ -1,0 +1,37 @@
+{
+	"prototypeName": "LED Sample",
+	"version": "1.0",
+	"prototypeDescription": "遠端控制 LinkIt 7697 的燈號",
+	"prototypeImageURL": "",
+	"isActive": true,
+	"isPublic": false,
+	"datachannels": [
+		{
+			"datachannelId": "switch_controller",
+			"datachannelName": "switch_controller",
+			"datachannelDescription": "",
+			"type": 1,
+			"channelType": {
+				"id": 7,
+				"name": "Switch"
+			},
+			"isHidden": true,
+			"format": {},
+			"isActive": true
+		},
+		{
+			"datachannelId": "string_display",
+			"datachannelName": "string_display",
+			"datachannelDescription": "",
+			"type": 2,
+			"channelType": {
+				"id": 5,
+				"name": "String"
+			},
+			"isHidden": true,
+			"format": {},
+			"isActive": true
+		}
+	],
+	"source": "mcs-lite"
+}
